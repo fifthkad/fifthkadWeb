@@ -1,0 +1,61 @@
+.sidebar-tab-logo{
+    font-size: 24px !important;
+    float: left;
+    margin-right: 15px;
+    line-height: 23px !important;
+    width: 30px !important;
+    text-align: center;
+}
+
+.sidebar-tab-logo-user{
+    font-size: 24px !important;
+    float: left;
+    margin-right: 26px;
+    line-height: 17px !important;
+    width: 30px !important;
+    text-align: center;
+    padding-left: 17px;
+}
+
+.Closed {
+    display: none;
+}
+
+.Terminated {
+    display: none;
+}
+
+.color_delete {
+    color: #f44336;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    h3 {
+      font-size: 15px;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-bottom: 15px;
+    }
+    .alert {
+      background: #f14343;
+      color: white;
+      padding: 15px;
+      border-radius: 5px;
+      p{
+        margin: 0;
+      }
+    }
+    .location{
+      background: green;
+      margin-top: 20px;
+    }
+  }
+  agm-map {
+    // height: 400px;
+    width: 100%;
+  }

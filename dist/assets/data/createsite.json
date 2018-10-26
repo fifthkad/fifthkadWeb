@@ -1,0 +1,19 @@
+{
+    "sitename"  : "kepong",
+    "startdate" : "2018-10-1",
+    "enddate"   : "2019-10-1",
+    "checkpoints" : [
+        { "id": "1", "altitude":"","longitude":"","remark":"site1"},
+        { "id": "2", "altitude":"","longitude":"","remark":"site2"},
+        { "id": "3", "altitude":"","longitude":"","remark":"site3"},
+        { "id": "4", "altitude":"","longitude":"","remark":"site4"},
+        { "id": "5", "altitude":"","longitude":"","remark":"site5"}
+    ],
+	"guards" : [
+        { "securityid": "100100" },
+        { "securityid": "100102"},
+        { "securityid": "100105"},
+        { "securityid": "100108"},
+        { "securityid": "100110"}
+    ]
+}

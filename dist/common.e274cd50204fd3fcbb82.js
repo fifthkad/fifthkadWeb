@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{"09p0":function(t,s,i){"use strict";i.d(s,"a",function(){return n});var n=function(){return function(t,s,i,n,e,r,h,a,o,u,c){this.username=t,this.password=s,this.securityid=i,this.guardname=n,this.siteid=e,this.status=r,this.shift=h,this.contractend=a,this.passportend=o,this.permitend=u,this.reason=c}}()}}]);
